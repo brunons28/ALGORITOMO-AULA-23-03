@@ -1,0 +1,30 @@
+		ALGORITIMO FUNCIONARIO
+
+-Solicitar nome do Funcionario
+-Ler o nome do funcionario
+-Solicitar idade do funcionario
+-Verificar idade do funcionario
+-se o funcionario tiver mais de 60 anos
+-Exibir msg: Apresentar prano de aposentadoria para funcionario
+-senao tiver mais de 60 anos
+-Exibir msg: Sem plano de aposentadoria
+-Solicitar estado civil do funcionario
+-Ler o estado civil do funcionario
+-Solicitar o numero de filhos
+-Ler e verificar o numero de filhos
+-Se o funcionario nao tiver filhos
+-Exibir msg: Funcionario sem direito ao auxilio familia
+-Se o funcionario tiver filhos
+-Exibir msg: Funcionario com direito ao auxilio familia
+-Solicitar o tempo de empresa
+-Ler e verificar o tempo de empresa
+-Se o funcionario tiver mais de 5 anos de empresa
+-Exibir msg: Funcionario com direito ao abono salarial
+-se nao tiver 
+-Exibir msg: Funcionario sem direito ao abono salarial
+-Solicitar o salario do funcionario
+-Verificar o salario
+-Se o salario for maior que 4.300
+-Exibir msg: Funcionario com direito ao seguro de vida e seguro saude
+-se nao tiver
+-Exibir msg: Funcionario sem direito ao seguro de vida e segur saude
